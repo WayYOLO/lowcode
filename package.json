@@ -34,8 +34,13 @@
     "@formily/core": "^2.1.9",
     "@formily/react": "^2.1.9",
     "@seada/antd-plugins": "0.0.1-rc.3",
+    "@umijs/fabric": "^2.12.2",
     "antd": "^4.21.4",
+    "eslint": "^7.32.0",
+    "lint-staged": "^13.0.3",
     "moment": "^2.29.3",
+    "prettier": "^2.7.1", 
+    "stylelint": "^14.9.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
